@@ -8,7 +8,7 @@ layout: page
 
 Here is **Haoran Mao (Harvey, 毛浩然)**. This webpage mainly provides you with detailed information about the projects.
 
-**You can find my CV here. [CV.pdf](https://HarveyMao0720.github.io/file/CV_mhr.pdf)**
+**You can find my CV here. [[CV.pdf](https://HarveyMao0720.github.io/file/CV_mhr.pdf)]**
 
 ## Education Background
 
@@ -26,7 +26,7 @@ Here is **Haoran Mao (Harvey, 毛浩然)**. This webpage mainly provides you wit
 
 ## Projects Details
 
-- **Metaverse Tourism**
+- **Metaverse Tourism** :egg:
 This is the final graduation group project during the master's stage.
 [![Metaverse Tourism](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281775/video_to_markdown/images/youtube--rTQUMwsKF6Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtube.com/watch?v=rTQUMwsKF6Y)
 
