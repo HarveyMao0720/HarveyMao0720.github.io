@@ -8,7 +8,7 @@ layout: page
 
 Here is **Haoran Mao (Harvey, 毛浩然)**.
 
-**You can find my CV here[CV](https"//HarveyMao0720.github.io/file/CV_mhr.pdf)**.
+**[You can find my CV here](https//HarveyMao0720.github.io/file/CV_mhr.pdf)**.
 
 ## Education Background
 
@@ -22,4 +22,25 @@ Here is **Haoran Mao (Harvey, 毛浩然)**.
 - **Sep 2023 - Oct 2024:** A
 - **Sep 2023 - Oct 2024:** B
 
+---
+
+## Projects
+
+[![Metaverse Tourism](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281775/video_to_markdown/images/youtube--rTQUMwsKF6Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/rTQUMwsKF6Y "Metaverse Tourism")
+
+[![Gesture Controlled Music Player](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281896/video_to_markdown/images/youtube--AaDbnZ-qJ0A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/AaDbnZ-qJ0A "Gesture Controlled Music Player")
+
+[![Doge Knight](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282116/video_to_markdown/images/youtube--5xohCvVkrNI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5xohCvVkrNI "Doge Knight")
+
+[![Color Labyrinth](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282255/video_to_markdown/images/youtube--Hsgh3dMCjPQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Hsgh3dMCjPQ "Color Labyrinth")
+
+[![Terror Carriage](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282351/video_to_markdown/images/youtube---SI6hXCPV28-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=-SI6hXCPV28 "Terror Carriage")
+
+---
+
 ## Skills
+
+- **Python**
+- **C#**
+- **Unity3D**
+- **Video Editting**
