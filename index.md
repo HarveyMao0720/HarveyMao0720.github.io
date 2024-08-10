@@ -8,7 +8,7 @@ layout: page
 
 Here is **Haoran Mao (Harvey, 毛浩然)**.
 
-**[You can find my CV here](https//HarveyMao0720.github.io/file/CV_mhr.pdf)**.
+**[You can find my CV here](https://HarveyMao0720.github.io/file/CV_mhr.pdf)**.
 
 ## Education Background
 
