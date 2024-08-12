@@ -49,22 +49,30 @@ This project investigates how to apply 3D Gaussian Splatting (3DGS) for VR appli
 
 * **Gesture Controlled Music Player** ☀️ 
 The group project of **Human-Computer Interaction**.
+
 [![Gesture Controlled Music Player](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281896/video_to_markdown/images/youtube--AaDbnZ-qJ0A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/AaDbnZ-qJ0A "Gesture Controlled Music Player")
+
 This project investigates how to apply image recognition task for Human-Computer interaction. We use Yolov5 models to do the hand gestures recognition and apply it to develop a music player, which can be controlled by different categories of gestures, such as "pause", "increse", "switch", etc.
 
 * **Doge Knight** ☀️ 
 The group project of **Game Engine and Programming**.
+
 [![Doge Knight](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282116/video_to_markdown/images/youtube--5xohCvVkrNI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5xohCvVkrNI "Doge Knight")
+
 A 3D game developed by Unity3D. The player will act as a Doge, strengthening himself by collecting materials and alchemy, and at last defeat the boss Golem.
 
 * **Color Labyrinth** ☀️ 
 The final project of **Game Design**.
+
 [![Color Labyrinth](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282255/video_to_markdown/images/youtube--Hsgh3dMCjPQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Hsgh3dMCjPQ "Color Labyrinth")
+
 A 3D game developed by Unity3D. The player need to collect different colors and reach the end of the labyrinth. Some walls will disapper when in the specific color. (The aim of this course project is to design the mechanism, so the main part of this game is simple.)
 
 * **Terror Carriage** ☀️ 
 The group project of **Extended Reality**.
+
 [![Terror Carriage](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282351/video_to_markdown/images/youtube---SI6hXCPV28-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=-SI6hXCPV28 "Terror Carriage")
+
 A VR game developed by Unity3D. The player is trapped into a strange carriage and he needs to escape from the monster and find the way out.
 
 ---

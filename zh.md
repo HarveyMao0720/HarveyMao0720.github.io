@@ -45,27 +45,37 @@ title: ZH-CN
 
 * **Metaverse Tourism元宇宙旅游** ☀️
 此项目为毕业设计.
+
 [![Metaverse Tourism](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281775/video_to_markdown/images/youtube--rTQUMwsKF6Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtube.com/watch?v=rTQUMwsKF6Y)
+
 沉浸式真实场景VR旅游。使用3D高斯泼溅（3D Gaussian Splatting，3DGS）进行场景建模，并用Unity3D及相关插件进行交互功能开发。
 
 * **Gesture Controlled Music Player 手势控制音乐播放器** ☀️
 **人机交互**课程小组项目.
+
 [![Gesture Controlled Music Player](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281896/video_to_markdown/images/youtube--AaDbnZ-qJ0A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/AaDbnZ-qJ0A "Gesture Controlled Music Player")
+
 基于手势控制的音乐播放器。使用Yolov5作手势目标识别任务，以轻量级HaGRID为数据集进行训练和测试。使用ReXNetV1作手部特征点回归任务，以Large-scale Multiview 3D Hand Pose Dataset为数据集进行训练和测试。
 
 * **Doge Knight 狗狗骑士** ☀️
 **游戏引擎与编程**课程小组项目.
+
 [![Doge Knight](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282116/video_to_markdown/images/youtube--5xohCvVkrNI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5xohCvVkrNI "Doge Knight")
+
 3DRPG+炼金游戏。玩家扮演一只狗狗骑士（兼炼金术士），不断收集材料通过炼金提升数值，最终打败Boss石头人。主要技术涉及智能导航地图烘焙（AI Navigation Map）、摄像机跟踪和后处理（Cinemachine & Post Processing）、动画控制器（Animator）、着色器（Shader Graph）、泛型单例（Singleton）等。
 
 * **Color Labyrinth 色彩迷宫** ☀️
 **游戏设计**课程个人项目.
+
 [![Color Labyrinth](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282255/video_to_markdown/images/youtube--Hsgh3dMCjPQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Hsgh3dMCjPQ "Color Labyrinth")
+
 3D跑酷+解谜游戏。玩家将收集不同的颜色块，控制主体颜色消除特殊墙体，最终达到迷宫终点。该课程的个人项目要求是设计游戏玩法，所以游戏主体内容较简单。
 
 * **Terror Carriage 恐惧车厢** ☀️
 **扩展现实**课程个人项目.
+
 [![Terror Carriage](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282351/video_to_markdown/images/youtube---SI6hXCPV28-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=-SI6hXCPV28 "Terror Carriage")
+
 VR解谜游戏。玩家将扮演一名被困在奇怪车厢的游戏，逃脱怪物的追捕，找到逃离车厢的方法。主要技术涉及Oculus集成插件VR开发。
 
 ---
