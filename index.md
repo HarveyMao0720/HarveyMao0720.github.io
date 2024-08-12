@@ -41,28 +41,31 @@ layout: page
 
 ## Projects Details
 
-* **Metaverse Tourism** ☀️
-This is the final graduation group project.
+* **Metaverse Tourism** ☀️ 
+The final graduation group project.
 [![Metaverse Tourism](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281775/video_to_markdown/images/youtube--rTQUMwsKF6Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtube.com/watch?v=rTQUMwsKF6Y)
 This project investigates how to apply 3D Gaussian Splatting (3DGS) for VR applications. It will address some of the technical issues that arise when applying this technology to VR. In order to take the advantage of the realism provided by 3DGS, we apply it to develop a VR tour application. By showcasing the scenic spots in a realistic way, we can attract people to Hong Kong for traveling.
 
 
-* **Gesture Controlled Music Player** ☀️
-This is the group project of **Human-Computer Interaction**.
+* **Gesture Controlled Music Player** ☀️ 
+The group project of **Human-Computer Interaction**.
 [![Gesture Controlled Music Player](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281896/video_to_markdown/images/youtube--AaDbnZ-qJ0A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/AaDbnZ-qJ0A "Gesture Controlled Music Player")
 This project investigates how to apply image recognition task for Human-Computer interaction. We use Yolov5 models to do the hand gestures recognition and apply it to develop a music player, which can be controlled by different categories of gestures, such as "pause", "increse", "switch", etc.
 
-* **Doge Knight** ☀️
-This is the group project of **Game Engine and Programming**.
+* **Doge Knight** ☀️ 
+The group project of **Game Engine and Programming**.
 [![Doge Knight](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282116/video_to_markdown/images/youtube--5xohCvVkrNI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5xohCvVkrNI "Doge Knight")
+A 3D game developed by Unity3D. The player will act as a Doge, strengthening himself by collecting materials and alchemy, and at last defeat the boss Golem.
 
-* **Color Labyrinth** ☀️
-This is the final project of **Game Design**.
+* **Color Labyrinth** ☀️ 
+The final project of **Game Design**.
 [![Color Labyrinth](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282255/video_to_markdown/images/youtube--Hsgh3dMCjPQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Hsgh3dMCjPQ "Color Labyrinth")
+A 3D game developed by Unity3D. The player need to collect different colors and reach the end of the labyrinth. Some walls will disapper when in the specific color. (The aim of this course project is to design the mechanism, so the main part of this game is simple.)
 
-* **Terror Carriage** ☀️
-This is the group project of **Extended Reality**.
+* **Terror Carriage** ☀️ 
+The group project of **Extended Reality**.
 [![Terror Carriage](https://res.cloudinary.com/marcomontalbano/image/upload/v1723282351/video_to_markdown/images/youtube---SI6hXCPV28-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=-SI6hXCPV28 "Terror Carriage")
+A VR game developed by Unity3D. The player is trapped into a strange carriage and he needs to escape from the monster and find the way out.
 
 ---
 
@@ -74,7 +77,7 @@ This is the group project of **Extended Reality**.
 
 ---
 
-## Certificates & Skills
+## Certificat-es & Skills
 
 * **Certificates**
   * CET-6
