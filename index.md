@@ -21,7 +21,7 @@ layout: page
 * **09/2017 - 06/2021**: **Huazhong Agricultural University** (211)
   * **Major**: Information Management and Information System
   * **Degree**: Bachelor of Management
-  * **Subjects**: IT Project Management, Enterprise Resource Management,Financial Management, E-commerce, Data Structure, Database Fundamentals, Information System Analysis and Design, Web Design and Development, Digital Image Processing, Economic and Social System Simulation, C++ Programming, JAVA Programming, Social Statistics and R Programming
+  * **Subjects**: IT Project Management, Enterprise Resource Management,Financial Management, E-commerce, Data Structure, Database Fundamentals, Information System Analysis and Design, Web Design and Development, Digital Image Processing, Economic and Social System Simulation, Social Statistics and R Programming
 
 ---
 
@@ -44,10 +44,13 @@ layout: page
 * **Metaverse Tourism** ☀️
 This is the final graduation group project.
 [![Metaverse Tourism](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281775/video_to_markdown/images/youtube--rTQUMwsKF6Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtube.com/watch?v=rTQUMwsKF6Y)
+This project investigates how to apply 3D Gaussian Splatting (3DGS) for VR applications. It will address some of the technical issues that arise when applying this technology to VR. In order to take the advantage of the realism provided by 3DGS, we apply it to develop a VR tour application. By showcasing the scenic spots in a realistic way, we can attract people to Hong Kong for traveling.
+
 
 * **Gesture Controlled Music Player** ☀️
 This is the group project of **Human-Computer Interaction**.
 [![Gesture Controlled Music Player](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281896/video_to_markdown/images/youtube--AaDbnZ-qJ0A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/AaDbnZ-qJ0A "Gesture Controlled Music Player")
+This project investigates how to apply image recognition task for Human-Computer interaction. We use Yolov5 models to do the hand gestures recognition and apply it to develop a music player, which can be controlled by different categories of gestures, such as "pause", "increse", "switch", etc.
 
 * **Doge Knight** ☀️
 This is the group project of **Game Engine and Programming**.
