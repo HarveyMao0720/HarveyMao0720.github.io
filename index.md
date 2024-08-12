@@ -43,7 +43,9 @@ layout: page
 
 * **Metaverse Tourism** ☀️ 
 The final graduation group project.
+
 [![Metaverse Tourism](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281775/video_to_markdown/images/youtube--rTQUMwsKF6Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtube.com/watch?v=rTQUMwsKF6Y)
+
 This project investigates how to apply 3D Gaussian Splatting (3DGS) for VR applications. It will address some of the technical issues that arise when applying this technology to VR. In order to take the advantage of the realism provided by 3DGS, we apply it to develop a VR tour application. By showcasing the scenic spots in a realistic way, we can attract people to Hong Kong for traveling.
 
 

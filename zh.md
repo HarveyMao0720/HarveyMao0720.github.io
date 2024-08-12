@@ -8,9 +8,9 @@ title: ZH-CN
 
 <img src="https://HarveyMao0720.github.io/images/life.jpg" class="floatpic" width="360" height="480">
 
-此界面主要提供个人项目的详细信息😊
+此界面主要提供个人项目的详细介绍和视频😊
 
-**简历可在此打开 [[CV.pdf](https://HarveyMao0720.github.io/file/CV_mhr.pdf)]**
+**中文简历可在此打开 [[CV.pdf](https://HarveyMao0720.github.io/file/CV_mhr_zh.pdf)]**
 
 ---
 
