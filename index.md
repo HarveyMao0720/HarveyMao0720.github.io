@@ -17,6 +17,15 @@ layout: page
 - **Sep 2023 - Oct 2024:** The Hong Kong Polytechnic University (MSc, Metaverse Technology)
 - **Sep 2017 - Jun 2021:** Huazhong Agricultural University (BMgt, Information Management and Information System)
 
+* 09/2023-10/2024: The Hong Kong Polytechnic University (QS57)
+  * Major: Metaverse Technology
+  * Degree: Master of Science
+  * Subjects: Metaverse Fundamentals, Human-Computer Interaction, Game Design, Game Engine, Extended Reality, Digital Twins & Virtual Human
+* 09/2017-06/2021: Huazhong Agricultural University (211)
+  * Major: Information Management and Information System
+  * Degree: Bachelor of Management
+  * Subjects: IT Project Management, Enterprise Resource Management, Data Structure, Database Fundamentals, System Analysis and Design, Web Design and Development, Digital Image Processing
+
 ---
 
 ## Internship Experience
