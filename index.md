@@ -77,6 +77,13 @@ The group project of **Extended Reality**.
 
 A VR game developed by Unity3D. The player is trapped into a strange carriage and he needs to escape from the monster and find the way out.
 
+* **2034** ☀️ 
+The group project of **Metaverse Applications: Design and Case Studies**.
+
+[![2034](https://res.cloudinary.com/marcomontalbano/image/upload/v1723469008/video_to_markdown/images/youtube--3RRRWCzugSc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/3RRRWCzugSc "2034")
+
+A 360 video developed and recorded by Unity3D. The video describes a story that the protagonist was trapped into the time "20:34" and caught by a monster. After experiencing a series of strange phenomena, he finally figured out the whole story and escaped from the subway station.
+
 ---
 
 ## Awards
