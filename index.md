@@ -21,7 +21,7 @@ layout: page
 * **09/2017 - 06/2021**: **Huazhong Agricultural University** (211)
   * **Major**: Information Management and Information System
   * **Degree**: Bachelor of Management
-  * **Subjects**: IT Project Management, Enterprise Resource Management, Data Structure, Database Fundamentals, System Analysis and Design, Web Design and Development, Digital Image Processing
+  * **Subjects**: IT Project Management, Enterprise Resource Management,Financial Management, E-commerce, Data Structure, Database Fundamentals, Information System Analysis and Design, Web Design and Development, Digital Image Processing, Economic and Social System Simulation, C++ Programming, JAVA Programming, Social Statistics and R Programming
 
 ---
 
@@ -68,6 +68,8 @@ This is the group project of **Extended Reality**.
 * "Three good" student of the 2021 Public Management Academic of Huazhong Agricultural University, 2021
 * The winning prize of the 6th Internet skills competition of Huazhong Agricultural University, 2020
 * The third prize of "Internet plus" innovation and entrepreneurship competition of Hubei University of Technology, 2019
+
+---
 
 ## Certificates & Skills
 
