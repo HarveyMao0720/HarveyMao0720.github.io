@@ -88,6 +88,7 @@ A 360 video developed and recorded by Unity3D. The video describes a story that 
 
 ## Awards
 
+* The Commendation Award (4th) in Metaverse Contest 2023/2024, the Hong Kong Polytechnic University, 2024
 * "Three good" student of the 2021 Public Management Academic of Huazhong Agricultural University, 2021
 * The winning prize of the 6th Internet skills competition of Huazhong Agricultural University, 2020
 * The third prize of "Internet plus" innovation and entrepreneurship competition of Hubei University of Technology, 2019
