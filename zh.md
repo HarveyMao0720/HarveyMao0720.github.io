@@ -44,7 +44,7 @@ title: ZH-CN
 ## 项目详情
 
 * **Metaverse Tourism元宇宙旅游** ☀️
-此项目为毕业设计.
+此项目为毕业设计（2024年11月获最佳毕业项目，奖金50,000HKD）.
 
 [![Metaverse Tourism](https://res.cloudinary.com/marcomontalbano/image/upload/v1723281775/video_to_markdown/images/youtube--rTQUMwsKF6Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtube.com/watch?v=rTQUMwsKF6Y)
 
@@ -88,6 +88,7 @@ VR解谜游戏。玩家将扮演一名被困在奇怪车厢的游戏，逃脱怪
 ---
 
 ## 获奖
+* 2024年香港理工大学元宇宙专业最佳毕业项目
 * 2023-2024年香港理工大学元宇宙竞赛优秀奖
 * 2021年华中农业大学公共管理学院三好学生
 * 2020年华中农业大学互联网技能竞赛优胜奖
